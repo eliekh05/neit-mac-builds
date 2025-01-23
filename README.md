@@ -1,3 +1,3 @@
-https://oxumlabs.github.io/neit
+https://oxumlabs.github.io/nsite
 
 macOS builds for neit language
