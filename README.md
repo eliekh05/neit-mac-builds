@@ -1,2 +1,3 @@
-# neit-mac-builds
-this is where Mac builds are
+https://oxumlabs.github.io/neit
+
+macOS builds for neit language
