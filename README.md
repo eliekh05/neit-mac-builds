@@ -4,7 +4,7 @@ official website: https://oxumlabs.github.io/nsite
 
 macOS builds for neit language
 
-# Thanks to:
+# Credits:
 
 [@eliekh05](https://github.com/eliekh05) for mac builds
 
