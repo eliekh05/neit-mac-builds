@@ -11,7 +11,7 @@ brew tap eliekh05/homebrew-neit-tap
 
 brew install neit
 ```
-or download te command from: https://github.com/eliekh05/neit-mac-builds/releases
+or download the command from: https://github.com/eliekh05/neit-mac-builds/releases
 
 if you downloaded the .tar.gz you need to extract it
 
