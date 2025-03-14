@@ -1,8 +1,24 @@
-For builds check: https://github.com/eliekh05/neit-mac-builds/releases
+# macOS builds for neit language
+
+# Install
+
+check readme of https://github.com/eliekh05/homebrew-neit-tap
+
+or enter following commands:
+
+```
+brew tap eliekh05/homebrew-neit-tap
+
+brew install neit
+```
+or download te command from: https://github.com/eliekh05/neit-mac-builds/releases
+
+if you downloaded the .tar.gz you need to extract it
+
+copy to where you save your commands
 
 official website: https://oxumlabs.github.io/nsite
 
-macOS builds for neit language
 
 # Credits:
 
